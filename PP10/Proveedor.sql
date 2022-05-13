@@ -1,0 +1,4 @@
+﻿CREATE TABLE Proveedor (
+	Id INTEGER PRIMARY KEY NOT NULL,
+	Nombre CHAR(50) NOT NULL
+);
